@@ -1,0 +1,64 @@
+body{
+  text-align:center;
+}
+#welcome{
+    background:linear-gradient(#75f505 0%, #f8fc03 100%);
+    height:700px;
+}
+#about{
+    background-color:lightpink;
+    height:700px;
+}
+#img{
+  border-radius:50%;
+  height:150px;
+}
+.heading{
+   color:darkturquoise;
+   font-size:70px;
+  font-family:cursive;
+   }
+#Dehra{
+  font-size:30px;
+  color:orange;
+  font-family:cursive;
+  text-align:center;
+}
+#gif{
+    height:250px;
+    width:300px;
+}
+.line{
+  background-color:black;
+  width:100px;
+  height:10px;
+  margin: 8px auto;
+}
+.menu{
+   list-style:none;
+   font-family:cursive;
+   top:10px;
+   right:30px;
+cursor:pointer;
+    z-index:4;
+    margin-left:100px;
+    text-align:center;
+
+}
+.links{
+    float:left;
+    padding-top:5px;
+    padding-right:30px;
+    padding-bottom;:10px;
+    padding-left:30px;
+    font-family:monospace;
+    color:black;
+    font-size:20px;
+    
+}
+.links:hover{
+    background-color: lightpink;
+}
+li{
+    display:inline;
+}
